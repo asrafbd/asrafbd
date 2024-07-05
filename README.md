@@ -1,5 +1,5 @@
 - 👋Hi, I'm Asraful Islam from Bangladesh.
-- I have CKA, RHCE, CCNA, and ITEE IP Passport certified and also CISA, ISO 27001 ISMS Internal auditor 
+- I have CKA,CKAD, RHCE, CCNA, and ITEE IP Passport certified and also CISA, ISO 27001 ISMS Internal auditor 
 courses completed. 
 I have experience on Linux servers, AWS Cloud, Digital Ocean, Media Temple, etc. cloud environments. 
 I have working knowledge of Docker, Kubernetes, Jenkins, Ansible, Terraform, etc. 
